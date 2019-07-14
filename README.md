@@ -1,5 +1,5 @@
 # ChallengeSofka
-You can generate a report using one of the following command:
+You can generate a report with *screenshots* using one of the following command:
 
 `mvn clean clean verify`
 Report will be generated into temp folder. Web server with results will start.
